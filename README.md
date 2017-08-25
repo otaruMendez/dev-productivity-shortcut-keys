@@ -12,5 +12,5 @@ Tell us tools, shortcuts you use on your operating system that increases your pr
 
 #### Value
 `Ctrl+Alt+Left` in default windows keymap
- - Shortcut can be changed to preferred shortcut in your IDE as follows:
+ - Shortcut can be changed to preferred shortcut in your IDE at:
     `File>settings>keymap>Main menu>Navigate>back`
