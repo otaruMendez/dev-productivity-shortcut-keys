@@ -1,7 +1,7 @@
 # Dev-Productivity-Tips
 Tell us tools, shortcuts you use on your operating system that increases your productivity on a daily basis. Please follow the format used in the example provided below.
 
-##  JETBRAINS, (WINDOWS, MAC, LINUX)
+##  JETBRAINS IDE (WINDOWS, MAC, LINUX)
 
 ### 1. Previous Caret Position
 
