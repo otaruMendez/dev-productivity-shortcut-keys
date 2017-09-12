@@ -4,7 +4,7 @@ Tell us tools, shortcuts you use on your operating system that increases your pr
 ##  JETBRAINS IDE (WINDOWS, MAC, LINUX)
 
 * Previous Caret Position: `Control+Alt+Left in default windows keymap` 
-* Find in current project: `Control+Shift+f in default windows keymmap` 
+* Search in current project: `Control+Shift+f in default windows keymmap` 
 
        
 ## LINUX OPERATING SYSTEM
