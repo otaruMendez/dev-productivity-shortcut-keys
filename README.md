@@ -3,15 +3,15 @@ Tell us tools, shortcuts you use on your operating system that increases your pr
 
 ##  JETBRAINS IDE (WINDOWS, MAC, LINUX)
 
-### 1. Previous Caret Position
+* Previous Caret Position
        Control+Alt+Left in default windows keymap
-### 2. Find in current project
+* Find in current project
        Control+Shift+f in default windows keymmap
 
        
     
 ## LINUX OPERATING SYSTEM
 
-### 1. Return to desktop screen
+* Return to desktop screen
        Control-Alt-D Ubuntu 11.0 and 12.0
        Control-Super-D Ubuntu 12.04 and above
