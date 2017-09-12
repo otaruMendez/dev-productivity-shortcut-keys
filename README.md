@@ -5,7 +5,10 @@ Tell us tools, shortcuts you use on your operating system that increases your pr
 
 ### 1. Previous Caret Position
        Control+Alt+Left in default windows keymap
-       Shortcut can be changed to preferred shortcut in your IDE at: File>settings>keymap>Main menu>Navigate>back
+### 2. Find in current project
+       Control+Shift+f in default windows keymmap
+
+       
     
 ## LINUX OPERATING SYSTEM
 
