@@ -3,10 +3,11 @@ Tell us tools, shortcuts you use on your operating system that increases your pr
 
 ##  JETBRAINS IDE (WINDOWS, MAC, LINUX)
 
-* Previous Caret Position: `Control+Alt+Left` 
-* Search in current project: `Control+Shift+f` 
+* **Previous Caret Position:** `Control+Alt+Left` 
+
+* **Search in current project:** `Control+Shift+f` 
 
        
 ## LINUX OPERATING SYSTEM
 
-* Return to desktop screen: `Control-Super-D Ubuntu 12.04 and above`
+* **Return to desktop screen:** `Control-Super-D Ubuntu 12.04 and above`
