@@ -17,6 +17,9 @@ Tell us tools, shortcuts you use on your operating system that increases your pr
 
 * **Search for a class name in current project:** `Control+Super+n`
 
+* **Reformat code in current file:** `Control+Alt+L`
+
+
 
        
 ## LINUX OPERATING SYSTEM
